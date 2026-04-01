@@ -1,7 +1,5 @@
-# 📦🔥 Matchbox: The Full-Stack Go Pocket Client
-
 <div align="center">
-  <i>A zero-state, ultra-compact hardware ecosystem built entirely on Go.</i>
+  <i>A zero-state, ultra-compact hardware ecosystem built in Go, TinyGo and Kotlin.</i>
   <br><br>
   
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
